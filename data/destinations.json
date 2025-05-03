@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Paris",
+      "country": "France",
+      "tags": ["romantic", "culture", "food"],
+      "budget_level": "high",
+      "ideal_duration": [3, 7],
+      "best_seasons": ["spring", "fall"]
+    },
+    {
+      "name": "Bangkok",
+      "country": "Thailand",
+      "tags": ["culture", "food", "nightlife"],
+      "budget_level": "medium",
+      "ideal_duration": [3, 5],
+      "best_seasons": ["winter"]
+    }
+  ]
